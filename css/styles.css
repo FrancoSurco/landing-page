@@ -4,7 +4,7 @@
 }
 
 nav{
-    background-color: black;
+    background-color: #FFD400;
 }
 .navbar-brand{
     font-weight: bold;
@@ -21,7 +21,7 @@ body nav li {
 
 /* Website Body */
 .color_blue{
-    background-color: #2C53C9;
+    background-color: #FFD400;
 }
 .col-md-6 {
     display: grid;
