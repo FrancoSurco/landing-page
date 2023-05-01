@@ -19,6 +19,11 @@ body nav li {
     color: white;
 }
 
+.img{
+    width: 950px;
+    height: 507px;
+}
+
 /* Website Body */
 .color_blue{
     background-color: #FFD400;
