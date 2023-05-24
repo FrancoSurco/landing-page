@@ -197,10 +197,28 @@ footer ul li {
 }
 .nav-link {
     color: white;
-    color: white;
 }
 .nav-link:hover{
     color: grey;
 }
 
+.language-selector{
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.social-media-icons {
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+.social-media-icons a {
+    margin: 0 10px;
+}
+
+.social-media-icons i {
+    font-size: 24px;
+}
 
