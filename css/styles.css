@@ -184,6 +184,10 @@ body nav li {
     font-weight: bold;
 }
 
+h1,h2,p{
+    text-align: center;
+}
+
 /* Footer */
 footer{
     background-color: black;
